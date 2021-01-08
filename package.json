@@ -12,6 +12,7 @@
     "deploy": "auto shipit --dry-run"
   },
   "devDependencies": {
-    "auto": "^10.5.0"
+    "auto": "^10.5.0",
+    "lerna": "^3.22.1"
   }
 }
