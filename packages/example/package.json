@@ -1,8 +1,8 @@
 {
-    "name": "@stub/package",
-    "version": "0.0.0",
-    "main": "index.js",
-    "repository": "https://github.com/AndrewLeedham/auto-repro",
-    "author": "AndrewLeedham",
-    "license": "MIT"
+  "name": "@stub/package",
+  "version": "0.0.1-next.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndrewLeedham/auto-repro",
+  "author": "AndrewLeedham",
+  "license": "MIT"
 }
