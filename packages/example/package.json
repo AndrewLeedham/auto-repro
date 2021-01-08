@@ -1,0 +1,8 @@
+{
+    "name": "auto-repro",
+    "version": "0.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/AndrewLeedham/auto-repro",
+    "author": "AndrewLeedham",
+    "license": "MIT"
+}

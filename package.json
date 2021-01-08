@@ -1,0 +1,17 @@
+{
+  "name": "auto-repro",
+  "version": "0.0.0",
+  "repository": "https://github.com/AndrewLeedham/auto-repro",
+  "author": "AndrewLeedham",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "deploy": "auto shipit --dry-run"
+  },
+  "devDependencies": {
+    "auto": "^10.5.0"
+  }
+}
